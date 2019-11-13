@@ -1,0 +1,2 @@
+# MyGolfHandicap
+A golf application used by frequent players to keep track of their golfing stats. The application with keep track of the golf courses played and their associated score. It will also include a score trend to determine if a player has progressed their scoring or not. It will also keep track of other stats and achievements such as pars, birdies, eagles, Aces, FIR, GIR, par saves, and more. The application will show a players handicap from month to month that is in USGA Compliance.
